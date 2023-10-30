@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAABQAAAAAAVQAAAAUAAAAAAAAAD/T/8PAAAA8F9E/w8AAFBAVVVV/1AAAFBf/1/1AAAAUFVVVfUAAABQVVRVRQAFBVBfRfVPAAAAUF9FVU8AAABQ/1VVBAAAAABQVUUAAAAABQAAAABQAAAAAAAAAFAAAAAFUABQBQAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "powerup"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
